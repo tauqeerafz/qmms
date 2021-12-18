@@ -1,0 +1,9 @@
+<div class="inner_slider row"><div class="fluid_container"><div class="camera_wrap camera_azure_skin" id="camera_wrap_1"></div>
+<div class="camera_wrap camera_magenta_skin" id="camera_wrap_2">
+<div data-thumb="[template-url]/images/thumb.jpg" data-src="[template-url]/images/banner2.jpg">
+</div><div data-thumb="[template-url]/images/thumb.jpg" data-src="[template-url]/images/banner2.jpg">
+</div><div data-thumb="[template-url]/images/thumb.jpg" data-src="[template-url]/images/banner2.jpg"></div>
+<div data-thumb="[template-url]/images/thumb.jpg" data-src="[template-url]/images/banner2.jpg"></div>
+<div data-thumb="[template-url]/images/thumb.jpg" data-src="[template-url]/images/banner2.jpg"></div>
+</div></div><div class="clr"></div></div>
+<div id="other_link3" class="row col-lg-12 row"> <a href="[site-url]/?page_id=18">Contacteer ons</a> </div>
